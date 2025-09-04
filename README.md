@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimi sarathe</h1>
 <h3 align="center">A passionate Data Scientist from india</h3>
-<img align="right" alt="Data Science GIF" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently working on **Data analyst projects**
 
